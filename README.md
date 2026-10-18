@@ -1,51 +1,83 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Afifi
+# Hi 👋 I'm Mohamed Afifi
 
-### 💻 Computer Science Student | 🤖 AI Enthusiast | 🚀 Software Engineer in Progress
+### 💻 Software Engineer | 🎥 Content Creator | 🚀 Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Python+Developer;Artificial+Intelligence+Learner;Tech+Content+Creator;Building+My+Future+With+Code" />
+<img src="YOUR_GIF_HERE" width="70%"/>
 
-<br>
+<p>
+I build software, create educational tech content, and enjoy sharing knowledge with developers.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Mohamed8goma&label=Profile%20Views&color=00A8FF&style=flat" />
+<p>
+🌍 Egypt • 💻 Full Stack Development • 📱 Mobile Development • 🎬 Tech Content
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-```python
-class MohamedAfifi:
+- 💻 Software Engineer
+- 🎥 Tech Content Creator
+- 🌱 Always learning new technologies
+- 🎯 Passionate about building useful software
+- 📚 Love teaching programming through content
 
-    name = "Mohamed Afifi"
-    age = 18
-    education = "Computer Science Student - CIC Egypt"
+---
 
-    skills = [
-        "C++",
-        "Python",
-        "Problem Solving"
-    ]
+# 🛠 Tech Stack
 
-    interests = [
-        "Artificial Intelligence",
-        "Software Engineering",
-        "Technology",
-        "Content Creation"
-    ]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-    hobbies = [
-        "Walking",
-        "Camping",
-        "Nature",
-        "Driving",
-        "Diving"
-    ]
+### Frameworks
 
-    mindset = [
-        "Patience",
-        "Smart Work",
-        "Continuous Learning"
-    ]
+- Flutter
+- React
+- Node.js
+- Firebase
+
+### Tools
+
+Git • GitHub • VS Code • Figma • Photoshop
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 📺 YouTube
+- 💼 LinkedIn
+- 📷 Instagram
+- 🐦 X (Twitter)
+- 🌐 Portfolio
